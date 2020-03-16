@@ -1,4 +1,4 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+I am a Computational Biologist working at a biotechnology company in South San Francisco, California, USA.
+Opinions expressed are solely my own and do not express the views or opinions of my employer.

@@ -1,3 +1,5 @@
-# Your blog
+# My blog
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+This is the repository for [my personal blog](tomsing1.github.io).
+
+It was set up using the `fast_template` created by [fastai](https://www.fast.ai/2020/01/16/fast_template/) and leverages github actions to build and deploy the static site.

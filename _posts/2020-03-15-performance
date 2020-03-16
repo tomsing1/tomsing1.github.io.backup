@@ -1,0 +1,6 @@
+The performance R package provides a unified interface to assess model fit and quality for many different statistical models. 
+It is part of the growing set of tools under the easystats umbrella - a suite of R packages designed to make the use of advanced statistical techniques easy.
+
+There are functions to report many different flavors of R-squared, Intraclass Correlation Coefficients (ICC) and checks for violations of assumptions such as overdispersion, zero-inflation or singular model fits. 
+
+And if you are looking for a one-stop-shop, search no more:

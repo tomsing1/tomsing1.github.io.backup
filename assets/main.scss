@@ -63,3 +63,8 @@
 .social.svg-icon {
   width: 21px !important;
 }
+
+.footer-col-1,
+.footer-col-2 {
+  width: calc(100% - (#{$spacing-unit} / 2));
+}
